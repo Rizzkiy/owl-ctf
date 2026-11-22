@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Rizzkiy/icon/refs/heads/main/Owl-Icon.png" alt="Owl CTF Logo" width="140" height="140">
 </p>
 
-<h1 align="center">Owl CTF Theme 🦉</h1>
+<h1 align="center">OWL CTF Theme 🦉</h1>
 
 <p align="center">
   <b><i>Enter the Abyss</i></b> — A premium Dark Obsidian & Crimson Glassmorphism theme for <a href="https://ctfd.io/">CTFd</a>.
